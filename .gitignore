@@ -1,0 +1,13 @@
+env
+myvenv
+**/*.pyc
+**/__pycache__
+media
+.DS_Store
+*.sqlite3
+*.env
+
+# Accept these files in the repository
+!.gitignore
+/.env
+/.vscode
